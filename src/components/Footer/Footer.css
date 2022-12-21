@@ -1,0 +1,19 @@
+.footer {
+    background-color: #5cbd9f;
+    height: 100px;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 22px;
+}
+
+.footer-icon {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+
+.footer-box {
+    margin-bottom: 10px;
+}
+
